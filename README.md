@@ -1,4 +1,4 @@
-# 📩 Join us here: [https://t.me/starternft](https://t.me/nftstarter)
+# 📩 Join us here: [https://t.me/nftstarter](https://t.me/nftstarter)
 
 ----
 ## ⚫ Metamask Drainer & NFT Stealer for ETH, ERC20, ERC721 Tokens
